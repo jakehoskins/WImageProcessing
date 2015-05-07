@@ -19,4 +19,4 @@ Using Operator:
 
 	[operator findTrainingSet: imgObj];
 	[operator erosion: imgObj];
-	UIImage *img = = [imgObj getImage];
+	UIImage *img = [imgObj getImage];
